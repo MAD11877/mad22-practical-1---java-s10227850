@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed7c5318-f181-43b8-80ab-5e296d39e28c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MADRepos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/.github/workflows/junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/.idea/Repos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical1/Repos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/androidTest/java/sg/edu/np/mad/week2activity/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/java/sg/edu/np/mad/week2activity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/java/sg/edu/np/mad/week2activity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/app/src/test/java/sg/edu/np/mad/week2activity/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/app/src/main/java/sg/edu/np/mad/week3/MainActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/app/src/main/java/sg/edu/np/mad/week3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/junit.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Repos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repos.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Practical2" />
+  </component>
+  <component name="ProjectId" id="28RsGqkp8gIBqqm42tQtn3UytU2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practical2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed7c5318-f181-43b8-80ab-5e296d39e28c" name="Default Changelist" comment="" />
+      <created>1651190639846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651190639846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

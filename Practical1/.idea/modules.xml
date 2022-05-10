@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MADRepos.iml" filepath="$PROJECT_DIR$/MADRepos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repos.iml" filepath="$PROJECT_DIR$/Repos.iml" />
     </modules>
   </component>
 </project>
